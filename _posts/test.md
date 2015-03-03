@@ -1,3 +1,7 @@
+---
+layout: posts
+---
+
 # h1 sample
 test
 
