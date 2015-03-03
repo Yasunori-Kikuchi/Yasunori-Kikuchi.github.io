@@ -1,14 +1,7 @@
-# h1
-text
+---
+layout: posts
+---
 
-## h2
-list
-- a
-- b
-	- b1
-	- b2
-- c
+## トップページです
 
-### h3
-
-[link](http://google.com)
+....
